@@ -34,6 +34,7 @@ Authors and contributors of jOOQ or parts of jOOQ in alphabetical order:
 - Miguel Gonzalez Sanchez
 - Nathaniel Fischer
 - Oliver Flege
+- Patrick J Sweeney
 - Peter Ertl
 - Richard Bradley
 - Robin Stocker
